@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow">
-  <img src="https://img.shields.io/badge/Language-Java-orange">
+  
 </p>  <img src="https://img.shields.io/github/followers/MaiaPiko?label=Follow">
 </p>
 
