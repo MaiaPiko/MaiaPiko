@@ -8,8 +8,8 @@
 
 <!-- Add some badges or shields -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20Java-blue">
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20">
+  <img src="https://img.shields.io/github/followers/MaiaPiko?label=Follow">
 </p>
 
 <!-- Add a section for your projects -->
