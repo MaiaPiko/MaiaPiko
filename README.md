@@ -3,7 +3,7 @@
 
 <!-- Add a brief introduction or bio -->
 <p align="center">
-  Hi there! I'm [Your Name], a passionate developer who loves to build amazing things. This is my GitHub repository where I showcase some of my coolest projects.
+  Hi there! 
 </p>
 
 <!-- Add some badges or shields -->
