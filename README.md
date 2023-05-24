@@ -20,7 +20,7 @@
 ###  Fleksja
 ![Fleksja](/fleksja.gif)
 
-Repository: [View the code:](https://github.com/MaiaPiko/Fleksja-FullStack)
+Repository: [Go to repo](https://github.com/MaiaPiko/Fleksja-FullStack)
 
 
 
