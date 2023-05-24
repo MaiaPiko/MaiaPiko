@@ -1,10 +1,5 @@
 
 
-<!-- Add a brief introduction or bio -->
-<p align="center">
-  Hi there! 
-</p>
-
 <!-- Add some badges or shields -->
 <p align="center">
 <p align="center">
@@ -27,3 +22,4 @@ Repository: [Go to repo](https://github.com/MaiaPiko/Fleksja-FullStack)
 
 
 
+###To be continued... 
