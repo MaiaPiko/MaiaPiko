@@ -11,14 +11,13 @@
 <p align="center">
 
   
-</p>  <img src="https://img.shields.io/github/followers/MaiaPiko?label=Follow">
-</p>
+
 
 <!-- Add a section for your projects -->
 ## Projects
 
 ### Project 1: VOCARD
-![Vocard](/images/project1.png)
+![Vocard](/vocard.gif)
 
 Description: ...
 
@@ -27,7 +26,7 @@ Demo: [Link to live demo](https://www.example.com)
 Repository: [Link to GitHub repository](https://github.com/your-username/project1)
 
 ### Project 2: Fleksja
-![Fleksja](/images/project2.png)
+![Fleksja](/fleksja.gif)
 
 Description: ...
 
