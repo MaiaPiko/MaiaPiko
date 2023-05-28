@@ -21,7 +21,7 @@ Repository: [Go to repo](https://github.com/MaiaPiko/Fleksja-FullStack)
 
 ###  Vocard
   
-  ![Vocard](/vocard.gif)
+  ![Vocard](/Vocard.gif)
 
 Repository: [Go to repo](https://github.com/MaiaPiko/VOCARD-DOCKER)
 
