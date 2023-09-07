@@ -2,5 +2,5 @@
 
 <p><strong>Visit my portfolio:</strong></p>
 <a htrf="https://maia-mlynczak.onrender.com/">
-[!MyDevFolio](portfolio.mp4)
+[!MyDevFolio](portfolio.gif)
 </a>
