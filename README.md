@@ -2,6 +2,11 @@
 
 <p><strong>Visit my portfolio:</strong></p>
 
-<a href="https://maia-mlynczak.onrender.com/">
+
 ![Alt Text](portfolio.gif)
+
+
+
+<a href="https://maia-mlynczak.onrender.com/">
+maia-mlynczak.onrender.com/
 </a>
