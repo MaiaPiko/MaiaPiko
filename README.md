@@ -2,7 +2,8 @@
 
 <p><strong>Projects:</strong></p>
 <p><strong>1. Fleksja:</strong>
-<a href="https://fleksja.onrender.com/">
-    <video width="640" height="360" controls>
-    <source src="Fleksja.webm>
-    </video>
+<p>Fleksja is an application that automatically generates Polish exercises from any given Polish passage and seamlessly updates websites through API post requests. I created it because I wanted to make something to help me practise Polish cases without having to manually create the exercises.</p>
+![Fleksja Demo](Media/fleksja.gif)
+
+Hosted on <a href="https://fleksja.onrender.com/"> https://fleksja.onrender.com/ </a>
+  
