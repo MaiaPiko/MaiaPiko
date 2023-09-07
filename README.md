@@ -2,8 +2,6 @@
 
 <p><strong>Visit my portfolio:</strong></p>
 
-<a htrf="https://maia-mlynczak.onrender.com/">
-https://maia-mlynczak.onrender.com/
-</a>
-
+<a href="https://maia-mlynczak.onrender.com/">
 ![Alt Text](portfolio.gif)
+</a>
