@@ -3,7 +3,7 @@
 <p><strong>Visit my portfolio:</strong></p>
 
 
-![Alt Text](portfolio.mp4)
+![Alt Text](portfolio.gif)
 
 
 
