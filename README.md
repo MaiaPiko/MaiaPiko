@@ -2,5 +2,7 @@
 
 <p><strong>Visit my portfolio:</strong></p>
 <a htrf="https://maia-mlynczak.onrender.com/">
-[!MyDevFolio](portfolio.gif)
+https://maia-mlynczak.onrender.com/
 </a>
+
+[!MyDevFolio](portfolio.gif)
