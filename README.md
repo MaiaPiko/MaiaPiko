@@ -1,5 +1,4 @@
 # Below are some of my projects which I would like to share with you :
-Note : The repositories below exist within two different GitHub accounts, both of which I manage.
 
 ## Blobster:
 
